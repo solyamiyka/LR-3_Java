@@ -1,0 +1,62 @@
+
+		  Solomiia vs Marta
+
+--------------Fighting--------------	 Round 1
+Marta -- making--damage -- Solomiia
+Solomiia get 52 damage 
+
+| Name: Solomiia 	 74 HP 
+| Name: Marta 	 165  HP 
+
+--------------Fighting--------------	 Round 2
+Solomiia -- making--damage -- Marta
+Marta get 62 damage 
+
+| Name: Marta 	 103 HP 
+| Name: Solomiia 	 74  HP 
+
+--------------Fighting--------------	 Round 3
+Marta -- making--damage -- Solomiia
+Solomiia get 23 damage 
+
+| Name: Solomiia 	 51 HP 
+| Name: Marta 	 103  HP 
+
+--------------Fighting--------------	 Round 4
+Marta -- making--damage -- Solomiia
+Solomiia get 23 damage 
+
+| Name: Solomiia 	 28 HP 
+| Name: Marta 	 103  HP 
+
+--------------Fighting--------------	 Round 5
+Solomiia -- making--damage -- Marta
+Marta get 13 damage 
+
+| Name: Marta 	 90 HP 
+| Name: Solomiia 	 28  HP 
+
+--------------Fighting--------------	 Round 6
+Solomiia -- making--damage -- Marta
+Marta get 42 damage 
+
+| Name: Marta 	 48 HP 
+| Name: Solomiia 	 28  HP 
+
+--------------Fighting--------------	 Round 7
+Solomiia -- making--damage -- Marta
+Marta get 23 damage 
+
+| Name: Marta 	 25 HP 
+| Name: Solomiia 	 28  HP 
+
+--------------Fighting--------------	 Round 8
+Solomiia -- making--damage -- Marta
+Marta get 45 damage 
+
+| Name: Marta 	 0 HP 
+| Name: Solomiia 	 28  HP 
+
+-----------------------------------
+ The loser is Marta
+
