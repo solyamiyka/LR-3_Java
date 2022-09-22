@@ -1,62 +1,87 @@
 
-		  Solomiia vs Marta
+		  Tank vs Doctor
 
 --------------Fighting--------------	 Round 1
-Marta -- making--damage -- Solomiia
-Solomiia get 52 damage 
+Doctor -- making--damage -- Tank
+Tank get 18 damage 
 
-| Name: Solomiia 	 74 HP 
-| Name: Marta 	 165  HP 
+| Name: Tank 	 132 HP 
+| Name: Doctor 	 70  HP 
 
 --------------Fighting--------------	 Round 2
-Solomiia -- making--damage -- Marta
-Marta get 62 damage 
+Doctor -- making--damage -- Tank
+Tank get 45 damage 
 
-| Name: Marta 	 103 HP 
-| Name: Solomiia 	 74  HP 
+| Name: Tank 	 87 HP 
+| Name: Doctor 	 70  HP 
 
 --------------Fighting--------------	 Round 3
-Marta -- making--damage -- Solomiia
-Solomiia get 23 damage 
+Tank -- making--damage -- Doctor
+Doctor get 17 damage 
 
-| Name: Solomiia 	 51 HP 
-| Name: Marta 	 103  HP 
+| Name: Doctor 	 53 HP 
+| Name: Tank 	 87  HP 
 
 --------------Fighting--------------	 Round 4
-Marta -- making--damage -- Solomiia
-Solomiia get 23 damage 
+Tank -- making--damage -- Doctor
+Doctor get 10 damage 
 
-| Name: Solomiia 	 28 HP 
-| Name: Marta 	 103  HP 
+| Name: Doctor 	 43 HP 
+| Name: Tank 	 87  HP 
 
 --------------Fighting--------------	 Round 5
-Solomiia -- making--damage -- Marta
-Marta get 13 damage 
+Doctor -- making--damage -- Tank
+Tank get 77 damage 
 
-| Name: Marta 	 90 HP 
-| Name: Solomiia 	 28  HP 
+| Name: Tank 	 10 HP 
+| Name: Doctor 	 43  HP 
 
 --------------Fighting--------------	 Round 6
-Solomiia -- making--damage -- Marta
-Marta get 42 damage 
+Doctor -- making--damage -- Tank
+Tank get 59 damage 
 
-| Name: Marta 	 48 HP 
-| Name: Solomiia 	 28  HP 
+| Name: Tank 	 0 HP 
+| Name: Doctor 	 43  HP 
 
---------------Fighting--------------	 Round 7
-Solomiia -- making--damage -- Marta
-Marta get 23 damage 
+Tank is dead...
 
-| Name: Marta 	 25 HP 
-| Name: Solomiia 	 28  HP 
 
---------------Fighting--------------	 Round 8
-Solomiia -- making--damage -- Marta
-Marta get 45 damage 
+		  Pancer vs Doctor
 
-| Name: Marta 	 0 HP 
-| Name: Solomiia 	 28  HP 
+--------------Fighting--------------	 Round 1
+Pancer -- making--damage -- Doctor
+Doctor get 74 damage 
 
------------------------------------
- The loser is Marta
+| Name: Doctor 	 0 HP 
+| Name: Pancer 	 60  HP 
 
+Doctor is dead...
+
+
+		  Pancer vs Ninja
+
+--------------Fighting--------------	 Round 1
+Ninja -- making--damage -- Pancer
+Pancer get 21 damage 
+
+| Name: Pancer 	 39 HP 
+| Name: Ninja 	 200  HP 
+
+--------------Fighting--------------	 Round 2
+Ninja -- making--damage -- Pancer
+Pancer get 23 damage 
+
+| Name: Pancer 	 16 HP 
+| Name: Ninja 	 200  HP 
+
+--------------Fighting--------------	 Round 3
+Ninja -- making--damage -- Pancer
+Pancer get 19 damage 
+
+| Name: Pancer 	 0 HP 
+| Name: Ninja 	 200  HP 
+
+Pancer is dead...
+
+
+ Second team win the game!

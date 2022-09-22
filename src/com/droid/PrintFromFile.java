@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class PrintFromFile {
-    String FILE = "console.txt";
+    public static String FILE = "console.txt";
     public void PrintFight() {
 
         try { // open file

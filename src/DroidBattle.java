@@ -1,6 +1,7 @@
 import com.droid.Droid;
 import java.io.*;
 
+import java.util.List;
 import java.util.Random;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -10,14 +11,14 @@ import org.apache.commons.io.output.TeeOutputStream;
 
 public class DroidBattle {
     BattleArena arena;
-    ArrayList<Droid> fstTeam = new ArrayList<>();
-    ArrayList<Droid> sndTeam = new ArrayList<>();
-    ArrayList<Droid> droids = createTypeOfDroids();
-    ArrayList<Droid> userDroids = new ArrayList<>();    // ліст для зберігання дроїдів введених користувачем
+    List<Droid> fstTeam = new ArrayList<>();
+    List<Droid> sndTeam = new ArrayList<>();
+    List<Droid> droids = createTypeOfDroids();
+    List<Droid> userDroids = new ArrayList<>();    // ліст для зберігання дроїдів введених користувачем
 
-    public ArrayList<Droid> createTypeOfDroids(){   // створення кастомних дроїдів
+    public List<Droid> createTypeOfDroids(){   // створення кастомних дроїдів
 
-        ArrayList<Droid> droids = new ArrayList<>();
+        List<Droid> droids = new ArrayList<>();
         droids.add(new Droid("Tank", 150, 60));
         droids.add(new Droid("Doctor", 70, 90));
         droids.add(new Droid("Warrior", 120,85));
@@ -210,7 +211,7 @@ public class DroidBattle {
             if (fstTeam.contains(dead)) { // якщо боєць, що загинув належав 1 команді
 
                 fstTeam.remove(dead);  // видалення його
-                second.setHealth(second.getHealth()) ; // записування здоров'я бійця, що бився
+               // second.setHealth(second.getHealth()) ; // записування здоров'я бійця, що бився
                 if (!fstTeam.isEmpty())
                     first = fstTeam.get(0); // бійцем стає найперший дроїд в 1 команді
 
@@ -218,7 +219,7 @@ public class DroidBattle {
             else { // якщо боєць, що загинув належав 2 команді
 
                 sndTeam.remove(dead);
-                first.setHealth(first.getHealth());
+               // first.setHealth(first.getHealth());
                 if (!sndTeam.isEmpty())
                     second = sndTeam.get(0);
             }
@@ -237,7 +238,7 @@ public class DroidBattle {
         EndPrintToFile(buffer);
     }
 
-    public void createTeam(int half, ArrayList<Droid> Team){ // створення команди
+    public void createTeam(int half, List<Droid> Team){ // створення команди
         do {
 
             Droid temp = inputDroidInfo();
@@ -249,7 +250,7 @@ public class DroidBattle {
         droids.addAll(userDroids);
     }
 
-    public void choseTeam(int half, ArrayList<Droid> Team){ // вибір команди
+    public void choseTeam(int half, List<Droid> Team){ // вибір команди
 
         System.out.println(droids);
 
